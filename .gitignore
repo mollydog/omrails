@@ -20,4 +20,4 @@ doc/
 .idea
 
 # Ignore Paperclip uploaded files
-/ignore/system
+/public/system
